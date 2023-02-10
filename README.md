@@ -1,4 +1,4 @@
-<h1>🍯 Website Honey</h1>
+<div align="center"><h1>🍯 Website Honey</h1></div>
 
 <div align="center">
 <img src="./.github/honey-1.png">
